@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.0",
-  "download_url": "https://github.com/leabchang-lang/-GIODANO-TG---Member/releases/download/v1.1.0/GIODANO_TG_-_Member_v1.1.0_installer.exe",
+  "latest_version": "1.1.1",
+  "download_url": "https://github.com/leabchang-lang/-GIODANO-TG---Member/releases/download/v1.1.1/GIODANO_TG_-_Member_v1.1.1_installer.exe",
   "changelog": [
     "Made the Preferences settings panel fully responsive on mobile and tablets",
     "Made the Preferences modal independently draggable within the application window",
