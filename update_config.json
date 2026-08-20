@@ -1,9 +1,10 @@
 {
-  "latest_version": "1.1.1",
-  "download_url": "https://github.com/leabchang-lang/-GIODANO-TG---Member/releases/download/v1.1.1/GIODANO_TG_-_Member_v1.1.1_installer.exe",
+  "latest_version": "1.1.2",
+  "download_url": "https://github.com/leabchang-lang/-GIODANO-TG---Member/releases/download/v1.1.2/GIODANO_TG_-_Member_v1.1.2_installer.exe",
   "changelog": [
-    "Made the Preferences settings panel fully responsive on mobile and tablets",
-    "Made the Preferences modal independently draggable within the application window",
-    "Fixed background transparency overlay clashing issues with main window text"
+    "Added dedicated System Setup page for system dependencies (WebView2 / VC++ Redist)",
+    "Implemented background silent download and auto-installers for WebView2 and VC++ Redistributables",
+    "Added support for scraping members from Telegram Channels (admin access required for broadcast channels) in Source selection",
+    "Fixed Client not initialized verification code error during Telegram account connection flow"
   ]
 }
